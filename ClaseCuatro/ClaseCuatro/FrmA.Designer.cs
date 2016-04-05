@@ -1,6 +1,6 @@
 ﻿namespace ClaseCuatro
 {
-    partial class Form1
+    partial class FrmA
     {
         /// <summary>
         /// Required designer variable.
@@ -28,12 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnSaludar = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnSaludar
+            // 
+            this.btnSaludar.Location = new System.Drawing.Point(40, 67);
+            this.btnSaludar.Name = "btnSaludar";
+            this.btnSaludar.Size = new System.Drawing.Size(75, 23);
+            this.btnSaludar.TabIndex = 0;
+            this.btnSaludar.Text = "Saludar";
+            this.btnSaludar.UseVisualStyleBackColor = true;
+            // 
+            // FrmA
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.Controls.Add(this.btnSaludar);
+            this.Name = "FrmA";
+            this.Text = "FrmA";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnSaludar;
     }
 }
-

@@ -1,1 +1,11 @@
 C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\bin\Debug\ClaseCuatro.exe.config
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\bin\Debug\ClaseCuatro.exe
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\bin\Debug\ClaseCuatro.pdb
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\obj\Debug\ClaseCuatro.csprojResolveAssemblyReference.cache
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\obj\Debug\ClaseCuatro.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\obj\Debug\ClaseCuatro.csproj.GenerateResource.Cache
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\obj\Debug\ClaseCuatro.exe
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\obj\Debug\ClaseCuatro.pdb
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\obj\Debug\ClaseCuatro.FrmPrincipal.resources
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\obj\Debug\ClaseCuatro.FrmB.resources
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ClaseCuatro\obj\Debug\ClaseCuatro.FrmA.resources
