@@ -1,0 +1,10 @@
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ParteDos\bin\Debug\ParteDos.exe.config
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ParteDos\bin\Debug\ParteDos.exe
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ParteDos\bin\Debug\ParteDos.pdb
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ParteDos\obj\Debug\Comparison.csprojResolveAssemblyReference.cache
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ParteDos\obj\Debug\ParteDos.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ParteDos\obj\Debug\Comparison.csproj.GenerateResource.Cache
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ParteDos\obj\Debug\ParteDos.exe
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ParteDos\obj\Debug\ParteDos.pdb
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ParteDos\obj\Debug\Comparison.Comparison.resources
+C:\Users\alumno.LAB4PC\Desktop\ClaseCuatro\ClaseCuatro\ParteDos\obj\Debug\ClaseCuatro.Comparison.resources

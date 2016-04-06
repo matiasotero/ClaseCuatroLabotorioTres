@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ParteDos
+namespace Comparison
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace ParteDos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Comparison());
+            Application.Run(new Fr());
         }
     }
 }
