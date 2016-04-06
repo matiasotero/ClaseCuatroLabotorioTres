@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseCuatro", "ClaseCuatro\ClaseCuatro.csproj", "{FBB105FF-E9DD-4C36-8F9A-0D2273013DDA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados", "ClaseCuatro\Delegados.csproj", "{FBB105FF-E9DD-4C36-8F9A-0D2273013DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparison", "ParteDos\Comparison.csproj", "{63F32CDD-0B51-43FA-89F7-0BC743E50AE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{FBB105FF-E9DD-4C36-8F9A-0D2273013DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBB105FF-E9DD-4C36-8F9A-0D2273013DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBB105FF-E9DD-4C36-8F9A-0D2273013DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F32CDD-0B51-43FA-89F7-0BC743E50AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F32CDD-0B51-43FA-89F7-0BC743E50AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F32CDD-0B51-43FA-89F7-0BC743E50AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F32CDD-0B51-43FA-89F7-0BC743E50AE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
